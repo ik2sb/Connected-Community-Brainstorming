@@ -1,1 +1,3 @@
 # Connected-Community-Brainstorming
+
+* Contributors
